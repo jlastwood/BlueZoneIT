@@ -11,6 +11,9 @@ myversion: v5.2
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
+# Mar 2018 trying out a new theme.  
+remote_theme: "mmistakes/so-simple-theme"
+
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
